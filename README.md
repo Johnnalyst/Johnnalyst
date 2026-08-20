@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timilehin
 
-### 📊 Aspiring Data Analyst | Turning Data Into Meaningful Insights
+### 📊 Data Analyst in Training | Excel & Power BI | Building Skills in SQL & Python
 
 I'm an aspiring Data Analyst passionate about exploring data, discovering patterns, and turning information into insights that can support better decision-making.
 
